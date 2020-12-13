@@ -14,7 +14,7 @@ def function_4():
 	pass
 
 def function_5():
-	pass
+	print('Diana Dutica')
 
 def function_6():
 	pass
