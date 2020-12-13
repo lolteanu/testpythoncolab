@@ -11,7 +11,7 @@ def function_3():
 	pass
 
 def function_4():
-	pass
+	print('Lol wtf')
 
 def function_5():
 	pass
