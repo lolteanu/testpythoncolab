@@ -8,7 +8,7 @@ def function_2():
 	pass
 
 def function_3():
-	pass
+	print("Sexy pvl Bartos")
 
 def function_4():
 	pass
