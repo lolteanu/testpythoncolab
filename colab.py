@@ -1,5 +1,5 @@
 def function_0():
-	pass
+	print("Laur")
 
 def function_1():
 	pass
