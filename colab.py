@@ -11,7 +11,7 @@ def function_3():
 	print("Sexy pvl Bartos")
 
 def function_4():
-	pass
+	print('Lol wtf')
 
 def function_5():
 	print('Diana Dutica')
